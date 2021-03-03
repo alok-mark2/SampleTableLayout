@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7e0a76f-93aa-4ff5-aa60-42226c97ddb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1pF9ZDvFbUhSdGG1Bz9fDkY8nhz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PAMB" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7e0a76f-93aa-4ff5-aa60-42226c97ddb3" name="Default Changelist" comment="" />
+      <created>1614768024330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614768024330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="59" key="FileChooserDialogImpl" timestamp="1614769249628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="59" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614769249628" />
+    <state x="460" y="236" key="Github.ShareDialog" timestamp="1614771127706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="236" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1614771127706" />
+    <state x="319" y="0" key="Github.UntrackedFilesDialog" timestamp="1614770203917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="319" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614770203917" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1614769736671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614769736671" />
+    <state x="175" y="31" key="Vcs.Push.Dialog.v2" timestamp="1614769861084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="31" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614769861084" />
+    <state x="188" y="205" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614770139267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="188" y="205" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614770139267" />
+    <state x="472" y="103" key="svn.repositoryBrowser" timestamp="1614771954793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="472" y="103" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1614771954793" />
+  </component>
+</project>
